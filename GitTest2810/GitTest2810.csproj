@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Added2ndClassInBranch.cs" />
+    <Compile Include="AddedAnotherClassInMain.cs" />
     <Compile Include="AddedinMain2.cs" />
     <Compile Include="AddedInMainAfterBranching.cs" />
     <Compile Include="AddedInTestBranch.cs" />
