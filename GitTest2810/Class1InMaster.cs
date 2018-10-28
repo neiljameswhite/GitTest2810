@@ -22,6 +22,11 @@ namespace GitTest2810
         {
             string testString = "Added on 2nd machine in main branch";
         }
+
+        public static void AddedInMainAfterBranchCreated()
+        {
+
+        }
         
     }
 }
