@@ -17,6 +17,11 @@ namespace GitTest2810
         {
 
         }
+
+        public static void AddedAfter1stCommit()
+        {
+
+        }
         
     }
 }
