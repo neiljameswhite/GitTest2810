@@ -12,5 +12,11 @@ namespace GitTest2810
         {
 
         }
+
+        public static void AddedAfterPushedtoRepo()
+        {
+
+        }
+        
     }
 }
