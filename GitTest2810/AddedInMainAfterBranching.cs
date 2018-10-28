@@ -8,5 +8,7 @@ namespace GitTest2810
 {
     class AddedInMainAfterBranching
     {
+
+        string testString = "added in master";
     }
 }
