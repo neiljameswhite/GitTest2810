@@ -20,7 +20,7 @@ namespace GitTest2810
 
         public static void AddedAfter1stCommit()
         {
-
+            string testString = "Added on 2nd machine in main branch";
         }
         
     }
