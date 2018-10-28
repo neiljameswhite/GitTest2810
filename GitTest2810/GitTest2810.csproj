@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="AddedinMain2.cs" />
     <Compile Include="AddedInMainAfterBranching.cs" />
+    <Compile Include="AddedInTestBranch.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class1InMaster.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
