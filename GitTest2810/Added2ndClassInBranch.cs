@@ -8,5 +8,6 @@ namespace GitTest2810
 {
     class Added2ndClassInBranch
     {
+        string testString = "does this work?";
     }
 }
